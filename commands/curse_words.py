@@ -1,0 +1,2 @@
+curse_words = ("bitch", "fuck", "asshole", "shit", "dick", "whore", "bastard", "pussy", "cock", "cunt", "ass", "curse-word")
+# sorry for anyone that has to see this, I know it looks unappealing. This is just the list of curse words for my noswear command
